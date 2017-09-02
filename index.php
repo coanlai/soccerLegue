@@ -1,6 +1,6 @@
 <?php
 //載入 db.php 檔案，讓我們可以透過它連接資料庫
-//require_once 'php/db.php';
+require_once 'db.php';
 ?>
 <!DOCTYPE html>
 <html lang="zh-TW">
